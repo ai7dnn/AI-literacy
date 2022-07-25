@@ -9,3 +9,10 @@
 - 다양한 인공지능 활용(https://www.youtube.com/watch?v=MFLRRjcMR7I (2:10))
 - 인공지능 화가 (https://www.youtube.com/watch?v=Nou2jvqM-bY (3:40))
 - 인공지능 체험 사이트 (https://www.youtube.com/watch?v=FWdV-TeGuyI (11:00))
+
+- 구글 딥마인드의 인공지능 벽돌 깨기와 팩맨 게임 모습
+    1. https://www.youtube.com/watch?v=V1eYniJ0Rnk
+    2.https://www.youtube.com/watch?v=QilHGSYbjDQ
+- 자율주행 강화학습 aws
+    1. https://www.youtube.com/watch?v=OBSIOlZ1yM8
+
