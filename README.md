@@ -12,7 +12,7 @@
 
 - 구글 딥마인드의 인공지능 벽돌 깨기와 팩맨 게임 모습
     1. https://www.youtube.com/watch?v=V1eYniJ0Rnk
-    2.https://www.youtube.com/watch?v=QilHGSYbjDQ
+    2. https://www.youtube.com/watch?v=QilHGSYbjDQ
 - 자율주행 강화학습 aws
     1. https://www.youtube.com/watch?v=OBSIOlZ1yM8
 
