@@ -16,9 +16,13 @@
 - 자율주행 강화학습 aws
     1. https://www.youtube.com/watch?v=OBSIOlZ1yM8
     
-## 관련 체험
+## 인공지능 체험
+- 그림 화풍(스타일) 변환
+    1. 구글 딥드림 생성 https://deepdreamgenerator.com/
+    
 - 손글씨 숫자 인식
     1. Neural Net for Handwritten Digit Recognition in JavaScript http://myselph.de/neuralNet.html
     2. Digit Recognizer https://draw-digit-predict.herokuapp.com/
+    3. CNN Digit Recognition WebApp using PyTorch, Flask https://digit-recog-torch.uc.r.appspot.com/
 
 
