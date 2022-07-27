@@ -3,6 +3,12 @@
 
 ## 관련 동영상
 - Ebs 이솦 AI 강좌 (11:10) (https://www.ebssw.kr/edc/cultursens/cultursensDetailView.do?alctcrSn=56149&pageIndex=3
+    1. 인공지능 이야기
+    2. 인공지능 개념
+    3. 기계학습
+    4. 지도학습
+    5. 비지도학습
+    6. 신경망과 심층 학습
 - 유튜브 강좌 (6:30) (https://www.youtube.com/watch?v=xeWIcOy8rzY)
 - 앨런튜링 이미테이션 게임 (https://www.youtube.com/watch?v=hAfQa2oddA0&t=724s)
 - AI 역사와 딥러닝 (https://www.youtube.com/watch?v=BUTP-YsD3nM)
@@ -19,6 +25,8 @@
 ## 인공지능 관련 자료  
 - 추천 인공지능 교재 https://sites.google.com/comedu.dnue.ac.kr/aiforkids/%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B5%90%EC%9E%AC
 - Ebs 인공지능과 수학 교재 자료 pdf https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=AI
+- 비상교육 인공지능 기초 https://dn.vivasam.com/VS/EBOOK/%EA%B3%A0%EB%93%B1%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88PC/index.html
+- 길벗 인공지능 기초 https://textbook.gilbut.co.kr/book/index.html
     
 ## 인공지능 체험
 - 그림 화풍(스타일) 변환
