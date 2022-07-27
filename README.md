@@ -15,6 +15,10 @@
     2. https://www.youtube.com/watch?v=QilHGSYbjDQ
 - 자율주행 강화학습 aws
     1. https://www.youtube.com/watch?v=OBSIOlZ1yM8
+
+## 인공지능 관련 자료  
+- 추천 인공지능 교재 https://sites.google.com/comedu.dnue.ac.kr/aiforkids/%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B5%90%EC%9E%AC
+- Ebs 인공지능과 수학 교재 자료 pdf https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=AI
     
 ## 인공지능 체험
 - 그림 화풍(스타일) 변환
