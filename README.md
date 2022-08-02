@@ -2,6 +2,7 @@
 디지털 리터러시를 위한 인공지능 기초
 
 ## 관련 동영상
+- 인간이 되고 싶었던 로봇 이야기 Bicentennial Man (1999) (https://www.youtube.com/watch?v=ODh2cpT-DqM)
 - Ebs 이솦 AI 강좌 (11:10) (https://www.ebssw.kr/edc/cultursens/cultursensDetailView.do?alctcrSn=56149&pageIndex=3
     1. 인공지능 이야기
     2. 인공지능 개념
