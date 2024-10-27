@@ -6,7 +6,7 @@
     - openAI가 개발한 대형 언어 모델
 2. Google gemini(Bard) (https://bard.google.com) (https://gemini.google.com/app)
     - 구글에서 개발한 대형 언어 모델로, 자연스러운 대화와 정보 제공이 가능
-3. Microsoft 코파일럿(Bing Chat) (ttps://copilot.microsoft.com/)
+3. Microsoft 코파일럿(Bing Chat) (https://copilot.microsoft.com)
     - 마이크로소프트의 Bing 검색 엔진에 통합된 AI 챗봇으로, 검색 결과와 대화를 결합한 서비스를 제공
 4. Anthropic의 Claude (https://claude.ai)
     - Anthropic이 개발한 AI 어시스턴트로, 다양한 주제에 대해 심층적인 대화가 가능
