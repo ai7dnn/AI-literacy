@@ -1,6 +1,21 @@
 # AI-literacy
 디지털 리터러시를 위한 인공지능 기초
 
+# ChatGPT와 유사한 생성형 AI 질의 응답 서비스를 제공하는 사이트
+1. chatGPT (https://chatgpt.com)
+    - openAI가 개발한 대형 언어 모델
+2. Google Bard (https://bard.google.com)
+    - 구글에서 개발한 대형 언어 모델로, 자연스러운 대화와 정보 제공이 가능
+3. Microsoft Bing Chat (https://www.bing.com/chat)
+    - 마이크로소프트의 Bing 검색 엔진에 통합된 AI 챗봇으로, 검색 결과와 대화를 결합한 서비스를 제공합니다.
+4. Anthropic의 Claude (https://www.anthropic.com)
+    - Anthropic이 개발한 AI 어시스턴트로, 다양한 주제에 대해 심층적인 대화가 가능
+5. Perplexity.ai (https://www.perplexity.ai)
+    - AI 기반의 질의 응답 및 정보 검색 서비스를 제공하는 플랫폼
+6. YouChat by You.com (https://you.com/chat)
+    - You.com에서 제공하는 AI 챗봇으로, 실시간으로 질문에 답변하고 정보를 제공
+
+
 ## 관련 동영상
 - 인간이 되고 싶었던 로봇 이야기 Bicentennial Man (1999) (https://www.youtube.com/watch?v=ODh2cpT-DqM)
 - Ebs 이솦 AI 강좌 (11:10) (https://www.ebssw.kr/edc/cultursens/cultursensDetailView.do?alctcrSn=56149&pageIndex=3
